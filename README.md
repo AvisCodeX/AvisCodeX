@@ -1,12 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm Avishek Chandra Das</h1>
 <h3 align="center">A competitive programmer from Bangladesh</h3>
-<img align="right" alt-"Coding" width="400" src="https://dribbble.com/shots/3848914-Programmer-Thomas/attachments/10055456?mode=media">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aviscodex&label=Profile%20views&color=0e75b6&style=flat" alt="aviscodex" /> </p>
 
 - 🌱 I’m currently learning **C++**
-- 
 - 💬 Ask me about **Programming**
 
 <h3 align="left">Connect with me:</h3>
